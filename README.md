@@ -21,6 +21,7 @@ resumen = "Resumen: " + b + " - " + c  # Concatenamos título y cuerpo en una nu
 
 print(resumen)  # Esto imprime: Resumen: titulo - Cuerpo del texto
 
+#  INFO DE PRACTICA Y PROGRAMADOR
 print(" ") #ESPACIO PARA AGREGAR LA INFO DE PRACTICA Y PROGRAMADOR
 
 print("#REYES MEZA ALAN EDUARDO : PR3_NUMBERS #NOMBRE PRACTICA Y DATOS DE PROGRAMADOR")
